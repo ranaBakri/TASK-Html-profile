@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+    color:aquamarine;
+    font-family:sans-serif;
+    border-radius: rgb(222, 151, 70)spx solid;
+    padding: 20px;
+    margin: 30px;
+    
+}
+
+img {
+    height: 100px;
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hobbies{
+    background-color: rgb(236, 31, 68)
+}
