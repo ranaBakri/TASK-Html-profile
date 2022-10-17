@@ -3,6 +3,7 @@ h1{
     text-align: center;
     color:aquamarine;
     font-family:sans-serif;
+    
     border-radius: rgb(222, 151, 70)spx solid;
     padding: 20px;
     margin: 30px;
@@ -20,4 +21,11 @@ img {
 
 .hobbies{
     background-color: rgb(236, 31, 68)
+}
+.background{
+    background-color:antiquewhite
+    
+}
+.background1{
+    background-color:black; color: white
 }
